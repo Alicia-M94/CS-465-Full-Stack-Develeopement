@@ -7,3 +7,8 @@ Run `npm install`, then `npm start`. Open http://localhost:3000.
 Audit note: One moderate hbs advisory remains, GHSA-7f5c-rpf4-86p8. npm reports no fix available.
 
 AI assistance: ChatGPT helped with environment setup, troubleshooting, and dependency-update guidance.
+
+## Module Two
+Run `npm install` and `npm start`, then open http://localhost:3000/travel. The Travel route calls a controller that renders a Handlebars view with header and footer partials.
+
+AI assistance: ChatGPT helped refactor the project into MVC folders, convert the Travel page to Handlebars, and test the route.
