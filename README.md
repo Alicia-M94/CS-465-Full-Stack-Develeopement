@@ -1,4 +1,4 @@
-# CS-465-Full-Stack-Develeopement
+# CS-465-Full-Stack-Development
 Travlr Getaways full-stack web application for CS-465 Full Stack Development
 
 ## Module One
