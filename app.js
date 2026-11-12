@@ -11,7 +11,7 @@ var travelRouter = require('./app_server/routes/travel');
 
 var app = express();
 
-// view engine setup
+// Set up Handlebars views and register the shared header and footer.
 app.set('views', path.join(__dirname, 'app_server', 'views'));
 app.set('view engine', 'hbs');
 hbs.registerPartials(path.join(app.get('views'), 'partials'));
